@@ -1,4 +1,4 @@
-// frontend/src/components/AlertsTable.js
+
 
 import React from 'react';
 
@@ -29,5 +29,5 @@ const AlertsTable = ({ alerts, isLoading, error }) => {
     );
 };
 
-// React.memo optimizes the component so it only re-renders when its props change.
+
 export default React.memo(AlertsTable);
