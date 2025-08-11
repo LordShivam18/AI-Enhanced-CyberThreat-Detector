@@ -1,4 +1,4 @@
-// frontend/src/components/PredictionForm.js
+
 
 import React, { useState, useCallback } from 'react';
 import { postPrediction } from '../apiService';
