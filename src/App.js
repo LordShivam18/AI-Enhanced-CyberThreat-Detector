@@ -1,10 +1,9 @@
 import React from 'react';
 
-// --- Import your components ---
-import Dashboard from './Dashboard';
-import { ShieldCheck } from 'lucide-react';
 
-// --- Import your stylesheet ---
+
+
+
 import './App.css';
 
 function App() {
