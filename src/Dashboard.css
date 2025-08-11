@@ -1,4 +1,4 @@
-/* src/Dashboard.css */
+
 .dashboard {
   max-width: 1400px;
   margin: 0 auto;
@@ -67,7 +67,7 @@ h2 {
   color: var(--text-secondary);
 }
 
-/* --- Form and Result Styles --- */
+
 .form-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
