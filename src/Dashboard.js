@@ -1,5 +1,4 @@
-// This file can stay the same as your "Newer Version"
-// No changes are needed here if you are using the refactored components
+
 import React from 'react';
 import { useAlerts } from './hooks/useAlerts';
 import AlertsTable from './components/AlertsTable';
